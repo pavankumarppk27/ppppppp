@@ -8,6 +8,7 @@ public class _5_TwoSum_ByMe {
 
 		int numbers[] = { 2, 7, 11, 1 ,14 ,18 };
 		int target = 32;
+                int sum=98;
                 String name="pavan kumar";
 		int[] twoSum = twoSum(numbers, target);
 		System.out.println(Arrays.toString(twoSum));
